@@ -1,0 +1,14 @@
+{
+  "name": "gs-ads-server",
+  "private": true,
+  "version": "1.0.0",
+  "type": "commonjs",
+  "main": "ad-analytics.cjs",
+  "scripts": {
+    "start": "node ad-analytics.cjs"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
